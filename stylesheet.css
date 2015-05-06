@@ -13,6 +13,12 @@ body {
     color: white;
 }
 
+.tekst h2 {
+    font-size: 35px;
+    font-family: Verdana;
+    color: #666666;
+}
+
 #navigation {
     background-color: #CCFFFF;
     margin: auto;
@@ -34,6 +40,10 @@ body {
     vertical-align: top;
     padding: 30px;
     margin: 5%;
+}
+
+.tekst p {
+    font-size: 15px;
 }
 
 .ozadje {
